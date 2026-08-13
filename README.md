@@ -7,6 +7,7 @@ Global Installation (Recommended)
 Install globally for direct command-line access:
 
 npm i -g @theone881/aacode
+
 After installation, simply run:
 
 aacode
